@@ -1,0 +1,20 @@
+commiter = lider tecnico = arquitecto = devop: persona encargada de administrar el proyecto, crea el proyecto versiona y subir a la nuve
+master <-> main : rama de producion o rama principal no se toca; se le saca una copia que se llama develop o desarrollo 
+consejo, estar constantemente actualizando el proyecto el local como el remoto
+fork 
+          remoto                  |         local
+lider rama principal al aire-main |
+                                  |
+                                  |
+       copia del principal        |
+                                  |
+                                  |
+copia al develop en mi perfil git | al descargar se convierte en el main local--->main
+                                  |    |
+                                  |    |--> crear otra copia desde terminal git--->  feature en este se programa
+                                  |                                                       |
+desps de subir el archivo al      |<------------------------------------------------------|
+original se pide que se revise    |
+se llama "pull request"           |                                                                                         |
+                                                                            se manda al original<--|
+                                                                                   |---> 

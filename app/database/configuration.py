@@ -9,3 +9,6 @@ server = "localhost"
 #creando la conexion
 databaseConection = f"mysql+mysqlconnector://{userName}:{userPassword}@{server}:{connectionPort}/{dataBaseName}"
 print(databaseConection)
+
+
+   
